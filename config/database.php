@@ -3,7 +3,7 @@
 $db_host = 'localhost';
 $db_user = 'root'; // Ganti dengan user Anda
 $db_pass = '';     // Ganti dengan password Anda
-$db_name = 'db_jemngenjem';
+$db_name = 'perpus';
 
 // Buat Koneksi
 $koneksi = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
